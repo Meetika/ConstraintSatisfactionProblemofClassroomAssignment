@@ -1,0 +1,13 @@
+Algo,core,Monday1,Monday2
+NLP,core,Monday1,
+WPL,core,Wednesday2,
+Database,elective,Monday1,Wednesday3
+BigData,elective,Monday2,Wednesday3
+AI,elective,Wednesday3,
+Stats,core,Monday3,Monday5
+ML,core,Wednesday4,
+CV,elective,Wednesday3,
+OOAD,elective,Monday5,
+HCI,elective,Monday5,Thursday7
+CV,elective,Thursday7,
+Room1,Room2,Room3,Room4
